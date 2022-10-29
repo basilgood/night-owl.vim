@@ -11,8 +11,6 @@ purple: '#c792ea'
 green: '#addb67'
 # jsString
 yellow: '#ecc48d'
-# Search
-yellow1: '#a58962'
 # jsComment(italic)
 gray: '#637777'
 # jsFuncCall
@@ -37,5 +35,7 @@ gray3: '#333333'
 gray4: '#444444'
 gray7: '#777777'
 graya: '#aaaaaa'
+yellow1: '#a58962'
+purple1: '#56567d'
 purple2: '#2d2c5d'
 hoki: '#5f7e97'
