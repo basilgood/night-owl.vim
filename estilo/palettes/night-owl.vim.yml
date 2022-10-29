@@ -11,6 +11,8 @@ purple: '#c792ea'
 green: '#addb67'
 # jsString
 yellow: '#ecc48d'
+# Search
+yellow1: '#a58962'
 # jsComment(italic)
 gray: '#637777'
 # jsFuncCall

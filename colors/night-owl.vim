@@ -4,7 +4,7 @@
 " URL: https://github.com/haishanh/night-owl.vim
 " Author: Haishan
 " License: MIT
-" Last Change: 2020/04/19 12:37
+" Last Change: 2022/10/29 23:50
 " ===============================================================
 
 set background=dark
@@ -30,16 +30,16 @@ hi VertSplit guifg=#777777 ctermfg=243 gui=NONE cterm=NONE
 hi Folded guifg=#777777 ctermfg=243 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi FoldColumn guifg=#333333 ctermfg=236 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi SignColumn guifg=NONE ctermfg=NONE guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
-hi IncSearch guifg=#eeeeee ctermfg=255 guibg=#ecc48d ctermbg=222 gui=NONE cterm=NONE
+hi IncSearch guifg=#eeeeee ctermfg=255 guibg=#a58962 ctermbg=137 gui=NONE cterm=NONE
 hi NonText guifg=#444444 ctermfg=238 gui=NONE cterm=NONE
 hi PMenu guibg=#2d2c5d ctermbg=236 gui=NONE cterm=NONE
 hi PMenuSel guibg=#c792ea ctermbg=176 gui=NONE cterm=NONE
-hi Search guifg=#011627 ctermfg=233 guibg=#ecc48d ctermbg=222 gui=NONE cterm=NONE
+hi Search guifg=#011627 ctermfg=233 guibg=#a58962 ctermbg=137 gui=NONE cterm=NONE
 hi SpecialKey guifg=#ecc48d ctermfg=222 gui=NONE cterm=NONE
 hi StatusLine guifg=#eeeeee ctermfg=255 guibg=#112630 ctermbg=235 gui=NONE cterm=NONE
 hi StatusLineNC guifg=#777777 ctermfg=243 guibg=#112630 ctermbg=235 gui=NONE cterm=NONE
 hi Title guifg=#82aaff ctermfg=111 gui=bold cterm=bold
-hi Visual guifg=#d6deeb ctermfg=253 guibg=#2d2c5d ctermbg=236 gui=NONE cterm=NONE
+hi Visual guibg=#2d2c5d ctermbg=236 gui=NONE cterm=NONE
 hi EndOfBuffer guifg=#444444 ctermfg=238 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi Comment guifg=#637777 ctermfg=243 gui=italic cterm=italic
 hi Constant guifg=#addb67 ctermfg=149 gui=NONE cterm=NONE
